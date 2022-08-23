@@ -1,0 +1,8 @@
+animeAnalysis/*.csv
+animeAnalysis/html*
+sentimentAnalysis/aclImdb/*
+sentimentAnalysis/aclImdb_v1.tar.gz
+sentimentAnalysis/data/_revised_clubs.txt
+sentimentAnalysis/data/clubs.txt
+sentimentAnalysis/data/users_list.txt
+animeAnalysis/weights.h5
